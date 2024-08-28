@@ -7,7 +7,7 @@ public class GitEjemplo {
 		
 		String x = "TODOS";
 		
-		System.out.println(x);
+		System.out.println("NADA");
 	}
 
 }
