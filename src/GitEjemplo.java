@@ -8,6 +8,8 @@ public class GitEjemplo {
 		String x = "TODOS";
 		
 		System.out.println("NADA");
+		
+		System.out.println("NADAx2");
 	}
 
 }
