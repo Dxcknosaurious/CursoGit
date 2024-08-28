@@ -16,6 +16,8 @@ public class GitEjemplo {
 		System.out.println("NADAx4");
 		
 		System.out.println("NADAx5");
+		
+		System.out.println("NADAx6");
 	}
 
 }
